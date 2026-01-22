@@ -110,6 +110,6 @@ Run the SQL files in the following order:
 ---
 
 ## 👤 Author
-**Abhishek Kumar**  
-Database-focused project for learning and portfolio demonstration.
 
+Abhishek Kumar  
+Aspiring Cloud & Data Engineer
